@@ -8,6 +8,4 @@ Next Step
 
 Made some readme edits
 
-----------
-|In a Box|
-----------
+Delete the box
