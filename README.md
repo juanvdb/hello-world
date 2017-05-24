@@ -9,3 +9,5 @@ Next Step
 Made some readme edits
 
 Update the text at 2017-05-22 15:09
+
+Update the text on 2017-05-24 10:15
